@@ -4,6 +4,6 @@ Esse jogo é um projeto da disciplina Fundamentos de Lógica e Algoritmos do cur
 ## Desenvolvedores
 Front-end: Felipe de Cortez Maia
 
-Back-end: Fernando Rego do Vale
+Back-end: Fernando Rego do Vale (https://github.com/Fernando-R-Vale)
 ## Historia
 Você e seu amigo foram teletransportados para um mundo paralelo que para sobreviver precisa vencer um campeonato de perguntas e resposta sobre futebol (estilo jogo do milhão).
